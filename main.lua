@@ -1,2 +1,1 @@
-TEST
-this is workun!!!
+print("hello")
